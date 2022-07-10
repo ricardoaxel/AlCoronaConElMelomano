@@ -1,16 +1,18 @@
 {
   "files": {
-    "main.css": "/AlCoronaConElMelomano/static/css/main.5152f406.css",
-    "main.js": "/AlCoronaConElMelomano/static/js/main.861aba57.js",
+    "main.css": "/AlCoronaConElMelomano/static/css/main.1728492a.css",
+    "main.js": "/AlCoronaConElMelomano/static/js/main.703617ce.js",
     "static/js/787.071c64ad.chunk.js": "/AlCoronaConElMelomano/static/js/787.071c64ad.chunk.js",
+    "static/media/IMAGEN3.png": "/AlCoronaConElMelomano/static/media/IMAGEN3.55ca36aae4bbaed94af3.png",
     "static/media/corona.jpeg": "/AlCoronaConElMelomano/static/media/corona.6be4cee3ddf695dde3cc.jpeg",
+    "static/media/backArrow.png": "/AlCoronaConElMelomano/static/media/backArrow.a7b347893370e16716d1.png",
     "index.html": "/AlCoronaConElMelomano/index.html",
-    "main.5152f406.css.map": "/AlCoronaConElMelomano/static/css/main.5152f406.css.map",
-    "main.861aba57.js.map": "/AlCoronaConElMelomano/static/js/main.861aba57.js.map",
+    "main.1728492a.css.map": "/AlCoronaConElMelomano/static/css/main.1728492a.css.map",
+    "main.703617ce.js.map": "/AlCoronaConElMelomano/static/js/main.703617ce.js.map",
     "787.071c64ad.chunk.js.map": "/AlCoronaConElMelomano/static/js/787.071c64ad.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.5152f406.css",
-    "static/js/main.861aba57.js"
+    "static/css/main.1728492a.css",
+    "static/js/main.703617ce.js"
   ]
 }
